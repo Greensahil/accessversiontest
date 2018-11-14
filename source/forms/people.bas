@@ -1,4 +1,4 @@
-﻿Version =20
+﻿Version =21
 VersionRequired =20
 Begin Form
     AutoCenter = NotDefault
@@ -12,8 +12,8 @@ Begin Form
     Width =11400
     DatasheetFontHeight =11
     ItemSuffix =5
-    Right =15735
-    Bottom =10215
+    Right =12720
+    Bottom =7560
     DatasheetGridlinesColor =14806254
     RecSrcDt = Begin
         0x69f339541c33e440
@@ -26,9 +26,6 @@ Begin Form
         0x010000006801000000000000a10700000100000001000000
     End
     AllowDatasheetView =0
-    AllowPivotTableView =0
-    AllowPivotChartView =0
-    AllowPivotChartView =0
     FilterOnLoad =0
     ShowPageMargins =0
     DisplayOnSharePointSite =1
@@ -100,7 +97,7 @@ Begin Form
             BackTint =20.0
             Begin
                 Begin Label
-                    OverlapFlags =85
+                    OverlapFlags =93
                     TextAlign =1
                     Left =360
                     Top =720
@@ -147,7 +144,7 @@ Begin Form
                     BorderColor =8355711
                     ForeColor =8355711
                     Name ="Label4"
-                    Caption ="people"
+                    Caption ="CAR"
                     GridlineColor =10921638
                     LayoutCachedLeft =60
                     LayoutCachedTop =60
@@ -157,9 +154,8 @@ Begin Form
             End
         End
         Begin Section
-            Height =720
+            Height =4020
             Name ="Detail"
-            AutoHeight =1
             AlternateBackColor =15921906
             AlternateBackThemeColorIndex =1
             AlternateBackShade =95.0
