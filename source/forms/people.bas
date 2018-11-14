@@ -144,7 +144,7 @@ Begin Form
                     BorderColor =8355711
                     ForeColor =8355711
                     Name ="Label4"
-                    Caption ="CAR"
+                    Caption ="car"
                     GridlineColor =10921638
                     LayoutCachedLeft =60
                     LayoutCachedTop =60
@@ -154,8 +154,9 @@ Begin Form
             End
         End
         Begin Section
-            Height =4020
+            Height =720
             Name ="Detail"
+            AutoHeight =1
             AlternateBackColor =15921906
             AlternateBackThemeColorIndex =1
             AlternateBackShade =95.0
